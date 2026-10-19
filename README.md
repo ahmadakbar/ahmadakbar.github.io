@@ -4,6 +4,7 @@
 npm create astro@latest -- --template blog
 ```
 
+
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 Features:
